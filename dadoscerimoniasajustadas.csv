@@ -1,0 +1,11 @@
+regiao,cargo,xp,colaboradores,dominio_energia,dominio_financeiro,dominio_eventos,dominio_gestao,dominio_agro,dominio_telecom,dominio_ecommerce,dominio_oleo,dominio_gov,dominio_construcao,dominio_engenharia,dominio_saude,dominio_mineracao,usa_scrum,usa_kanban,usa_scrumban,usa_lean,usa_safe,aplica_risco_em_reuniao_de_planejamento_da_sprint,aplica_metrica_em_reuniao_de_planejamento_da_sprint,aplica_risco_em_reuniao_de_revisao_da_sprint,aplica_metrica_em_reuniao_de_revisao_da_sprint,aplica_risco_em_reuniao_semanal,aplica_metrica_em_reuniao_semanal,aplica_risco_em_reuniao_diaria,aplica_metrica_em_reuniao_diaria,aplica_risco_em_reuniao_de_retrospectiva_da_sprint,aplica_metrica_em_reuniao_de_retrospectiva_da_sprint,nao_aplica_risco_em_nada,nao_aplica_metrica_em_nada,utiliza_gestao_de_risco,considera_praticas_suficientes,implementa_planejamento_da_gestao_de_riscos,implementa_identificacao_dos_riscos,implementa_analise_qualitativa_dos_riscos,implementa_analise_quantitativa_dos_riscos,implementa_priorizacao_dos_riscos,implementa_planejamento_de_resposta_aos_riscos,implementa_monitoramento_e_controle_dos_riscos,pratica_adicional
+Sul,Product manager,5,8,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0.5,0,0,0,0,0,0
+Sul,Desenvolvedor(a),3,9,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0.5,0.5,0.5,0.5,0.5,0.5,0
+Sul,Product manager,3,20,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,1,1,0.5,0.5,0,0,0,0.5,0,0
+Sul,Team leader,6,4,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,1,0,1,0,0,1,0,0,1,1,0.5,1,0.5,0.5,1,0.5,0.5,0
+Sul,Product manager,4,30,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,1,1,0,0.5,0,0,0.5,0.5,0.5,1
+Sul,Scrum master,12,2200,0,1,0,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,0,1,0,0,1,1,0,0,1,0,0.5,0.5,0.5,0,0,0,0.5,0
+Sudeste,Engineering Manager,12,10,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,0
+Norte,Project Manager,20,1600,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,1,0,0,1,0,0,1,1,0.5,0.5,1,0.5,0.5,0.5,0.5,0
+Nordeste,Product manager,16,1050,0,1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0
+Sudeste,Team leader,12,10000,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,1,0,1,0,0,0,0,1,1,0,1,1,1,0.5,1,0.5,0.5,1,0.5,0.5,0
